@@ -44,7 +44,6 @@ main {
 /* Seção Sobre Nós */
 .sobre-nos {
   max-width: 800px;
-  text-align: left;
   margin-bottom: 12px;
 }
 
@@ -56,6 +55,7 @@ main {
 .sobre-nos p {
   margin: 0;
   line-height: 1.5;
+  text-align: justify;
 }
 
 /* Seção Explicação do Site */
@@ -101,4 +101,5 @@ main {
 .passos li {
   margin: 4px 0;
 }
+
 
