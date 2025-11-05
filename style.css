@@ -38,6 +38,8 @@ main {
   display: flex;
   flex-direction: column;
   align-items: center;
+  justify-content: center;
+  text-align: justify;
   padding: 16px;
 }
 
@@ -101,5 +103,6 @@ main {
 .passos li {
   margin: 4px 0;
 }
+
 
 
